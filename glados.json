@@ -2,13 +2,11 @@
 	"type": "micro",
 	"wake_word": "glados",
 	"author": "someone else",
-	"model": "./glados",
-	"version": 2,
+	"website": "www.home-assistant.io",
+	"model": "./glados.tflite",
+	"version": 1,
 	"micro": {
 		"probability_cutoff": 0.67,
-		"sliding_window_size": 5,
-		"feature_step_size": 10,
-		"tensor_arena_size": 22860,
-		"minimum_esphome_version": "2024.12"
+		"sliding_window_average_size": 5,
 	}
 }
