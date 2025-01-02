@@ -2,7 +2,7 @@
 	"type": "micro",
 	"wake_word": "hey housey",
 	"author": "Alex Stirling",
-	"model": "hey_house_e.tflite",
+	"model": "./hey_house_e.tflite",
 	"version": 2,
 	"micro": {
 		"probability_cutoff": 0.97,
