@@ -3,6 +3,7 @@
 	"wake_word": "hey house e",
 	"author": "Alex Stirling",
 	"model": "./hey_house_e.tflite",
+	"trained_languages": "eng",
 	"version": 2,
 	"micro": {
 		"probability_cutoff": 0.97,
