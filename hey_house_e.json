@@ -1,6 +1,6 @@
 {
 	"type": "micro",
-	"wake_word": "hey housey",
+	"wake_word": "hey house e",
 	"author": "Alex Stirling",
 	"model": "./hey_house_e.tflite",
 	"version": 2,
