@@ -2,6 +2,7 @@
 	"type": "micro",
 	"wake_word": "hey house e",
 	"author": "Alex Stirling",
+	"website": "",
 	"model": "./hey_house_e.tflite",
 	"trained_languages": "eng",
 	"version": 2,
