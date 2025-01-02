@@ -3,7 +3,7 @@
 	"wake_word": "glados",
 	"author": "someone else",
 	"website": "www.home-assistant.io",
-	"model": "./glados.tflite",
+	"model": "glados.tflite",
 	"trained_languages": ["en"],
 	"version": 2,
 	"micro": {
